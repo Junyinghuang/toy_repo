@@ -1,3 +1,3 @@
-this cod prints hello world
+this code prints hello world
 
 I am the author
